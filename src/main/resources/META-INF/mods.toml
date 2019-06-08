@@ -1,0 +1,12 @@
+modLoader="javafml"
+loaderVersion="[25,)"
+logoFile="fastbamboo_logo.png"
+
+[[mods]]
+modId="fastbamboo" 
+version="${file.jarVersion}" 
+displayName="Fast Bamboo" 
+authors="darkevilmac"
+description='''
+Fixes Vanilla's slow bamboo renderer by overriding slower methods in the BambooBlock class. This is a coremod, if you don't like that then fight me.
+'''

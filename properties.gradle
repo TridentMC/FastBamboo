@@ -1,0 +1,10 @@
+ext {
+    //Mod Stuff
+    modGroup = "com.tridevmc"
+    modVersion = "1"
+    modBaseName = "fastbamboo"
+
+    // Forge stuff
+    forgeVersion = "1.14.2-26.0.5"
+    mappingsVersion = "20190607-1.14.2"
+}
